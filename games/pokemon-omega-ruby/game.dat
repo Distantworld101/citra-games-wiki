@@ -1,0 +1,19 @@
+title = "Pokemon Omega Ruby"
+description = "Pokemon Omega Ruby is a enhanced remake of the original Pokemon Ruby, which released on the Game Boy Advance 11 years ago. The Engine that is used is the same engine that was used in Pokemon X and Y"
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "000400000011C400"
+region = "all"
+release_date = "2014-11-21"
+
+[[testcases]]
+title = "000400000011C400"
+compatibility = "1"
+date = "2017-11-23"
+version = "HEAD-b7cf793"
+cpu = "AMD Ryzen 5 1600"
+gpu = "GeForce GTX 1060"
+os = "Windows 10 16299.64"
+author = "Distantworld101"
