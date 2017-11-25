@@ -24,13 +24,3 @@ cpu = "AMD Ryzen 1600"
 gpu = "Nvidia GeForce GTX 1060"
 os = "Windows 10 16299"
 author = "Distantworld101"
-
-[[testcases]]
-title = "000400000B000200"
-compatibility = "1"
-date = "2017-11-22"
-version = "HEAD-b7cf793"
-cpu = "AMD Ryzen 1600"
-gpu = "Nvidia GeForce GTX 1060"
-os = "Windows 10 16299"
-author = "Distantworld101"
